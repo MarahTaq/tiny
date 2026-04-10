@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        ""      # tiny
-  author:       ""      # MarahTaq
+  title:        "tiny"      # tiny
+  author:       "MarahTaq"      # MarahTaq
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # tinytapeout workshop 
+  description:  "workshop"      # tinytapeout workshop 
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
