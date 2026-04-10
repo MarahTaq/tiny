@@ -16,9 +16,11 @@ Will update once I know.
 ## How to test
 
 Explain how to use your project
-asdjfioewkmf
+The wya to test is to test 
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-asjfdoiewnarv
+External hardware is external hardware 
+T konw external hardware look at external hardware
+
